@@ -9,7 +9,7 @@ Meine Projekte reichen von Datenextraktion über Fahrzeug-Monitoring bis zu Web-
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/pascal-hassenberg-523480332/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/pascal-ha%C3%9Fenberg-523480332/)
 
 ---
 
