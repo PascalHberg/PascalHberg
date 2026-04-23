@@ -1,4 +1,4 @@
-# Pascal Hassenberg – Developer Portfolio
+# Pascal Haßenberg – Developer Portfolio
 
 Backend- und Python-Entwickler mit Fokus auf Automatisierung, Datenverarbeitung und Webentwicklung.  
 Aktuell in der Ausbildung zum Fachinformatiker für Systemintegration (FiSi).
