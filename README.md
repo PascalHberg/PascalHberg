@@ -60,7 +60,15 @@ Meine Projekte reichen von Datenextraktion über Fahrzeug-Monitoring bis zu Web-
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=PascalHberg&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PascalHberg&langs_count=8&layout=donut&theme=dark)
+## Most Used Languages
+
+| Language | Repositories |
+|----------|---|
+| Python | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| Bash | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) |
+| HTML | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) |
+| CSS | ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) |
+| SQL | ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white) |
 
 ---
 
