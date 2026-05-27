@@ -60,7 +60,6 @@ Meine Projekte reichen von Datenextraktion über Fahrzeug-Monitoring bis zu Web-
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=PascalHberg&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PascalHberg&theme=dark&layout=pie)
 
 ---
 
