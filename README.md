@@ -60,21 +60,7 @@ Meine Projekte reichen von Datenextraktion über Fahrzeug-Monitoring bis zu Web-
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=PascalHberg&theme=dark&hide_border=false)
 
-## Language Distribution
-
-```
-📊 Most Used Languages in Repositories
-
-┌─────────────────────────────────────┐
-│         Language Breakdown          │
-├─────────────────────────────────────┤
-│ 🐍 Python          ████████░ 45%    │
-│ 💻 Bash            ████░░░░░ 20%    │
-│ 🎨 HTML            ███░░░░░░ 15%    │
-│ 🎭 CSS             ██░░░░░░░ 12%    │
-│ 🗄️  SQL             ██░░░░░░░  8%    │
-└─────────────────────────────────────┘
-```
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PascalHberg&theme=dark&layout=pie)
 
 ---
 
