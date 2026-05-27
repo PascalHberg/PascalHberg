@@ -60,15 +60,21 @@ Meine Projekte reichen von Datenextraktion über Fahrzeug-Monitoring bis zu Web-
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=PascalHberg&theme=dark&hide_border=false)
 
-## Most Used Languages
+## Language Distribution
 
-| Language | Repositories |
-|----------|---|
-| Python | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| Bash | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) |
-| HTML | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) |
-| CSS | ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) |
-| SQL | ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white) |
+```
+📊 Most Used Languages in Repositories
+
+┌─────────────────────────────────────┐
+│         Language Breakdown          │
+├─────────────────────────────────────┤
+│ 🐍 Python          ████████░ 45%    │
+│ 💻 Bash            ████░░░░░ 20%    │
+│ 🎨 HTML            ███░░░░░░ 15%    │
+│ 🎭 CSS             ██░░░░░░░ 12%    │
+│ 🗄️  SQL             ██░░░░░░░  8%    │
+└─────────────────────────────────────┘
+```
 
 ---
 
