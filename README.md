@@ -1,8 +1,12 @@
 # Pascal Haßenberg – Developer Portfolio
 
-Python Developer in Ausbildung zum Fachinformatiker für Systemintegration (FiSi), mit Fokus auf System Engineering, Automatisierung und IT-Security.
+Python Developer in Ausbildung zum Fachinformatiker für Systemintegration (FiSi) 
+mit Fokus auf System Engineering, Automatisierung und IT-Security.
+Ich verbinde Python-Entwicklung und Datenverarbeitung mit praktischer IT-Infrastruktur. 
+Mein Schwerpunkt liegt auf der Automatisierung technischer Abläufe, der Entwicklung von REST-APIs und Backend-Anwendungen sowie dem Verständnis sicherer und zuverlässiger IT-Systeme. 
+Parallel vertiefe ich meine Kenntnisse in Linux, Windows Server, Active Directory, Netzwerktechnik und Virtualisierung.
 
-Ich verbinde Softwareentwicklung und Datenverarbeitung mit praktischer IT-Infrastruktur. Meine Projekte umfassen Python-Anwendungen, REST-APIs, Web-Backends und Automatisierung. Parallel vertiefe ich meine Kenntnisse in Linux, Windows Server, Active Directory, Netzwerktechnik und Virtualisierung.
+
 ---
 
 ## Contact
